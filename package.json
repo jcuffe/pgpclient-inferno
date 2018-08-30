@@ -1,0 +1,17 @@
+{
+  "name": "pgpchat-inferno",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "auth0-js": "^9.7.3",
+    "inferno": "^5.4.2",
+    "inferno-router": "^5.4.2",
+    "inferno-scripts": "6.3.2"
+  },
+  "scripts": {
+    "start": "inferno-scripts start",
+    "build": "inferno-scripts build",
+    "test": "inferno-scripts test --env=jsdom",
+    "eject": "inferno-scripts eject"
+  }
+}
